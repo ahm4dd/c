@@ -1,4 +1,4 @@
 # Done
 Basics (All)
 Structs (All)
-Pointers (half)
+Pointers (2/3)
