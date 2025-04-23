@@ -1,4 +1,10 @@
 # Done
 Basics (All)
 Structs (All)
-Pointers (2/3)
+Pointers (All)
+Enums (All)
+Unions (All)
+Stack and Heap (All)
+Advanced pointers (All)
+Stack Data Structure (All)
+Objects (4/9)
